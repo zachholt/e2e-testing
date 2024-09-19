@@ -12,3 +12,4 @@ test("should navigate to the about page", async ({ page }) => {
     "About Page",
   );
 });
+
